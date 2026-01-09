@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Index Menus</h1> 
+    <h1>Get All Menus</h1> 
   </div>
 </template>
  
